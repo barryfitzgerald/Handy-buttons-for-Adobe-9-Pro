@@ -1,0 +1,1 @@
+app.addToolButton({ cName: "Black&whiteDocumentShortcut", cLabel: "SCAN", cExec: "app.execMenuItem(\"Scan\")"});
